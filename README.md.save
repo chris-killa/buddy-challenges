@@ -1,0 +1,11 @@
+## Welcome, welcome.
+
+## We will face three challenges today beeing about git and github
+
+## 1 Challenge: **Race** to be the quickest in connecting your local repo to git@github.com:chris-killa/buddy-challenges.git
+# Aufgabe:
+1. Erstelle ein neues Repository in deinem GitHub-Account.
+2. Schreibe einen einfachen Fitz-Buzz-Game.
+3. Initialisiere ein lokales Git-Repository (`git init`).
+4. Pushe den Code auf GitHub.
+5. Teile den Link zum Repo in einem GitHub-Issue dieses Repos. 
