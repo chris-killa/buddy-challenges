@@ -32,9 +32,5 @@ In dieser Challenge werden wir fünf mächtige Git-Befehle behandeln.
 
 ---
 
-## 🚀 Aufgabe  
-1. Beantworte die oben genannten Fragen in einer neuen Datei mit dem Namen `git-commands.md`.  
-2. Committe deine Antworten und pushe sie in dein Repository.  
-3. Erstelle einen Pull Request zu diesem Repository.
-
+## 🚀 
 **Viel Erfolg bei der Challenge!** 🎉
